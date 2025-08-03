@@ -1,4 +1,11 @@
 ## Hi there 👋
+Iam Durga,a student at LBSITW learning java and github.
+#currently learnig 
+-java
+-git and github
+#how to reach me:
+email:durgavisakh3@gmail.com
+#projects coming soon
 
 <!--
 **durgavisakh/durgavisakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
